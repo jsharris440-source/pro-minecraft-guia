@@ -157,4 +157,4 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Minecraft · Actualizado 2026-10-29 · Compartido bajo licencia MIT*
+*Minecraft · Actualizado 2026-10-30 · Compartido bajo licencia MIT*
